@@ -20,3 +20,10 @@ postreSQL에 저장된 데이터를 Logstash가 수집하여 Elasticsearch의 �
 
 
 nginx는 static file 서빙과 /api로 요청이 들어오면 proxy로의 역할을 수행합니다.
+
+
+
+
+# Demo
+
+![Airport_Scanner](https://user-images.githubusercontent.com/58541337/101319942-287ded00-38a6-11eb-9db7-eb6792d70746.gif)
